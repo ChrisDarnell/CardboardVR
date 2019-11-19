@@ -1,0 +1,73 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "C:\\Users\\cdarnell\\Downloads\\cardboard-master\\cardboard-master",
+      "sdkFolder": "C:\\Users\\cdarnell\\AppData\\Local\\Android\\Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "C:\\Users\\cdarnell\\Downloads\\cardboard-master\\cardboard-master\\sdk\\build\\intermediates",
+      "gradleModulePathName": ":sdk",
+      "moduleRootFolder": "C:\\Users\\cdarnell\\Downloads\\cardboard-master\\cardboard-master\\sdk",
+      "makeFile": "C:\\Users\\cdarnell\\Downloads\\cardboard-master\\cardboard-master\\sdk\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "C:\\Users\\cdarnell\\Downloads\\cardboard-master\\cardboard-master\\.cxx",
+      "cxxFolder": "C:\\Users\\cdarnell\\Downloads\\cardboard-master\\cardboard-master\\sdk\\.cxx",
+      "ndkFolder": "C:\\Users\\cdarnell\\AppData\\Local\\Android\\Sdk\\ndk-bundle",
+      "ndkVersion": "20.1.5948944",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [
+      "-DANDROID_STL\u003dc++_shared",
+      "-DPROTO_PATH:PATH\u003dC:\\Users\\cdarnell\\Downloads\\cardboard-master\\cardboard-master/proto"
+    ],
+    "cFlagList": [],
+    "cppFlagsList": [
+      "-std\u003dgnu++11"
+    ],
+    "variantName": "debug",
+    "soFolder": "C:\\Users\\cdarnell\\Downloads\\cardboard-master\\cardboard-master\\sdk\\build\\intermediates\\cmake\\debug\\lib",
+    "objFolder": "C:\\Users\\cdarnell\\Downloads\\cardboard-master\\cardboard-master\\sdk\\build\\intermediates\\cmake\\debug\\obj",
+    "jsonFolder": "C:\\Users\\cdarnell\\Downloads\\cardboard-master\\cardboard-master\\sdk\\.cxx\\cmake\\debug",
+    "gradleBuildOutputFolder": "C:\\Users\\cdarnell\\Downloads\\cardboard-master\\cardboard-master\\sdk\\.cxx\\cxx\\debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARM64_V8A",
+  "abiPlatformVersion": 21,
+  "cxxBuildFolder": "C:\\Users\\cdarnell\\Downloads\\cardboard-master\\cardboard-master\\sdk\\.cxx\\cmake\\debug\\arm64-v8a",
+  "jsonFile": "C:\\Users\\cdarnell\\Downloads\\cardboard-master\\cardboard-master\\sdk\\.cxx\\cmake\\debug\\arm64-v8a\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "C:\\Users\\cdarnell\\Downloads\\cardboard-master\\cardboard-master\\sdk\\.cxx\\cxx\\debug\\arm64-v8a",
+  "objFolder": "C:\\Users\\cdarnell\\Downloads\\cardboard-master\\cardboard-master\\sdk\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a",
+  "buildCommandFile": "C:\\Users\\cdarnell\\Downloads\\cardboard-master\\cardboard-master\\sdk\\.cxx\\cmake\\debug\\arm64-v8a\\build_command.txt",
+  "buildOutputFile": "C:\\Users\\cdarnell\\Downloads\\cardboard-master\\cardboard-master\\sdk\\.cxx\\cmake\\debug\\arm64-v8a\\build_output.txt",
+  "modelOutputFile": "C:\\Users\\cdarnell\\Downloads\\cardboard-master\\cardboard-master\\sdk\\.cxx\\cmake\\debug\\arm64-v8a\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "C:\\Users\\cdarnell\\Downloads\\cardboard-master\\cardboard-master\\sdk\\.cxx\\cxx\\debug\\arm64-v8a\\CMakeLists.txt",
+    "toolchainWrapperFile": "C:\\Users\\cdarnell\\Downloads\\cardboard-master\\cardboard-master\\sdk\\.cxx\\cxx\\debug\\arm64-v8a\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "C:\\Users\\cdarnell\\Downloads\\cardboard-master\\cardboard-master\\sdk\\.cxx\\cxx\\debug\\arm64-v8a\\build_generation_state.json",
+    "cacheKeyFile": "C:\\Users\\cdarnell\\Downloads\\cardboard-master\\cardboard-master\\sdk\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_cache_key.json",
+    "compilerCacheUseFile": "C:\\Users\\cdarnell\\Downloads\\cardboard-master\\cardboard-master\\sdk\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "C:\\Users\\cdarnell\\Downloads\\cardboard-master\\cardboard-master\\sdk\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "C:\\Users\\cdarnell\\Downloads\\cardboard-master\\cardboard-master\\sdk\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "C:\\Users\\cdarnell\\Downloads\\cardboard-master\\cardboard-master\\sdk\\.cxx\\cmake\\debug\\arm64-v8a\\json_generation_record.json",
+  "compileCommandsJsonFile": "C:\\Users\\cdarnell\\Downloads\\cardboard-master\\cardboard-master\\sdk\\.cxx\\cmake\\debug\\arm64-v8a\\compile_commands.json"
+}

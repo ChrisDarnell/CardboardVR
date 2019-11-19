@@ -1,0 +1,331 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:2:1-33:12
+MERGED from [:sdk] C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\sdk\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-53:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\2762df556eb00935af44a9cef289bcc5\design-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\2ad9bfadafd430f8dbad1412b3cf8d16\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\88180c2d9df321ed403965b1f5904015\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\14610764e68245651e1424f87a24b61b\play-services-vision-15.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\70219fe9d1e4de6e6ecac99af2111a74\play-services-vision-common-15.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\b66d4bc2383736321a21645f59fd815e\play-services-clearcut-15.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\011e8d734fb1971df59fabdc49b46ad8\play-services-flags-15.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\51ce7079bd06bdcd95f228971ae4b700\play-services-phenotype-15.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\8a238751f281a7df6433d71cb1e51553\play-services-base-15.0.1\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\a2f6f8d60ea82e9fa55bf13d305b9e20\play-services-tasks-15.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\7e9712b97e48a8df88241daaac2516ad\play-services-basement-15.0.1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\551bc97023610b3a2a13198864385efa\support-v4-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\2c2719b22890890f5ae6a51c577cf1e6\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\07ec705aed5324b71d72c4292188ba58\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\cbc9fded8b0ca2dc6b55abe24b8dd624\recyclerview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\1334fe890717dc3473dc186f28449ae9\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\51316cf1e90ac9ba1040508849baa486\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\eef6aeb86cd4abc591f340e9ebffbc25\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\c5d3c2766ada7a1573158f87d282c560\transition-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\ad62f407f0f82b0a54b4d08f147faaa7\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\9e47cc7119ced64ae9076bee16f6f474\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\383ad2c48ccebde577332ae7ce906c52\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\aabad928b9dfc3bb4f99a8e919d7ca2a\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\d777efb7f005f4061664eb152e4e4155\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\378cad5251b7bf9290fb2bb3c5781307\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\a7cb32bf2478ccd8ed752b2b8a998b8f\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\11902811a1e20f50ecac97c485be82b1\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\971a5b69b89846008f16f9726686958d\support-media-compat-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\f14724208b5bfeeef0d6bdefe649bca7\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\f993d148e999fdf956a4937ae88c6ee1\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\16e10458eb3d86dce547be2d4dce65a9\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\67b0ea41bb31f1300bd726681636eb0e\cardview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\a4cce78b48541915b29a77ed3286103c\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\d2514de441a98c98e63d23342e697e1c\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\587d4b4ba2bee95fa70ebde7fdef163e\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\6649028815494b2aeabe1bc5c2405c56\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\5e2b7336b65fd01a7d1759b63ce95e82\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\5e443312ff8e9912636de42e05adc2a8\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\bde0a02c7eaeb68bbbbe9daba8b5a4d3\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\80a25cd447b6f67296c411c5c16059bb\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\a9f3caa807bbac705342bf916bae7e9b\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:2:11-69
+uses-feature#0x00030002
+ADDED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:5:5-78
+MERGED from [:sdk] C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\sdk\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-13:35
+MERGED from [:sdk] C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\sdk\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-13:35
+	android:glEsVersion
+		ADDED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:5:19-51
+	android:required
+		ADDED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:5:52-75
+uses-feature#android.hardware.sensor.accelerometer
+ADDED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:6:5-97
+	android:required
+		ADDED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:6:72-95
+	android:name
+		ADDED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:6:19-71
+uses-feature#android.hardware.sensor.gyroscope
+ADDED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:7:5-93
+	android:required
+		ADDED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:7:68-91
+	android:name
+		ADDED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:7:19-67
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:8:5-65
+MERGED from [:sdk] C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\sdk\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-65
+MERGED from [:sdk] C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\sdk\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-65
+	android:name
+		ADDED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:8:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:10:5-81
+MERGED from [:sdk] C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\sdk\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-81
+MERGED from [:sdk] C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\sdk\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:11:5-67
+MERGED from [:sdk] C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\sdk\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-67
+MERGED from [:sdk] C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\sdk\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:11:22-64
+application
+ADDED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:14:5-32:19
+MERGED from [:sdk] C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\sdk\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:5-51:19
+MERGED from [:sdk] C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\sdk\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:5-51:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\2762df556eb00935af44a9cef289bcc5\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\2762df556eb00935af44a9cef289bcc5\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\88180c2d9df321ed403965b1f5904015\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\88180c2d9df321ed403965b1f5904015\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\14610764e68245651e1424f87a24b61b\play-services-vision-15.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\14610764e68245651e1424f87a24b61b\play-services-vision-15.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\70219fe9d1e4de6e6ecac99af2111a74\play-services-vision-common-15.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\70219fe9d1e4de6e6ecac99af2111a74\play-services-vision-common-15.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\b66d4bc2383736321a21645f59fd815e\play-services-clearcut-15.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\b66d4bc2383736321a21645f59fd815e\play-services-clearcut-15.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\51ce7079bd06bdcd95f228971ae4b700\play-services-phenotype-15.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\51ce7079bd06bdcd95f228971ae4b700\play-services-phenotype-15.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\8a238751f281a7df6433d71cb1e51553\play-services-base-15.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\8a238751f281a7df6433d71cb1e51553\play-services-base-15.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\a2f6f8d60ea82e9fa55bf13d305b9e20\play-services-tasks-15.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\a2f6f8d60ea82e9fa55bf13d305b9e20\play-services-tasks-15.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\7e9712b97e48a8df88241daaac2516ad\play-services-basement-15.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\7e9712b97e48a8df88241daaac2516ad\play-services-basement-15.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\551bc97023610b3a2a13198864385efa\support-v4-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\551bc97023610b3a2a13198864385efa\support-v4-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\971a5b69b89846008f16f9726686958d\support-media-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\971a5b69b89846008f16f9726686958d\support-media-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\f14724208b5bfeeef0d6bdefe649bca7\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\f14724208b5bfeeef0d6bdefe649bca7\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\f993d148e999fdf956a4937ae88c6ee1\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\f993d148e999fdf956a4937ae88c6ee1\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\f14724208b5bfeeef0d6bdefe649bca7\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:16:9-45
+	android:allowBackup
+		ADDED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:20:9-40
+	android:usesCleartextTraffic
+		ADDED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:19:9-44
+activity#com.google.cardboard.VrActivity
+ADDED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:21:9-31:20
+	android:screenOrientation
+		ADDED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:25:13-50
+	android:label
+		ADDED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:23:13-54
+	android:exported
+		ADDED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:26:13-36
+	android:theme
+		ADDED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:24:13-63
+	android:name
+		ADDED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:22:13-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml
+MERGED from [:sdk] C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\sdk\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:sdk] C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\sdk\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\2762df556eb00935af44a9cef289bcc5\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\2762df556eb00935af44a9cef289bcc5\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\2ad9bfadafd430f8dbad1412b3cf8d16\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\2ad9bfadafd430f8dbad1412b3cf8d16\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\88180c2d9df321ed403965b1f5904015\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\88180c2d9df321ed403965b1f5904015\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\14610764e68245651e1424f87a24b61b\play-services-vision-15.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\14610764e68245651e1424f87a24b61b\play-services-vision-15.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\70219fe9d1e4de6e6ecac99af2111a74\play-services-vision-common-15.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\70219fe9d1e4de6e6ecac99af2111a74\play-services-vision-common-15.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\b66d4bc2383736321a21645f59fd815e\play-services-clearcut-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\b66d4bc2383736321a21645f59fd815e\play-services-clearcut-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\011e8d734fb1971df59fabdc49b46ad8\play-services-flags-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\011e8d734fb1971df59fabdc49b46ad8\play-services-flags-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\51ce7079bd06bdcd95f228971ae4b700\play-services-phenotype-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\51ce7079bd06bdcd95f228971ae4b700\play-services-phenotype-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\8a238751f281a7df6433d71cb1e51553\play-services-base-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\8a238751f281a7df6433d71cb1e51553\play-services-base-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\a2f6f8d60ea82e9fa55bf13d305b9e20\play-services-tasks-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\a2f6f8d60ea82e9fa55bf13d305b9e20\play-services-tasks-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\7e9712b97e48a8df88241daaac2516ad\play-services-basement-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\7e9712b97e48a8df88241daaac2516ad\play-services-basement-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\551bc97023610b3a2a13198864385efa\support-v4-26.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\551bc97023610b3a2a13198864385efa\support-v4-26.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\2c2719b22890890f5ae6a51c577cf1e6\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\2c2719b22890890f5ae6a51c577cf1e6\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\07ec705aed5324b71d72c4292188ba58\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\07ec705aed5324b71d72c4292188ba58\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\cbc9fded8b0ca2dc6b55abe24b8dd624\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\cbc9fded8b0ca2dc6b55abe24b8dd624\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\1334fe890717dc3473dc186f28449ae9\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\1334fe890717dc3473dc186f28449ae9\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\51316cf1e90ac9ba1040508849baa486\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\51316cf1e90ac9ba1040508849baa486\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\eef6aeb86cd4abc591f340e9ebffbc25\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\eef6aeb86cd4abc591f340e9ebffbc25\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\c5d3c2766ada7a1573158f87d282c560\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\c5d3c2766ada7a1573158f87d282c560\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\ad62f407f0f82b0a54b4d08f147faaa7\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\ad62f407f0f82b0a54b4d08f147faaa7\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\9e47cc7119ced64ae9076bee16f6f474\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\9e47cc7119ced64ae9076bee16f6f474\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\383ad2c48ccebde577332ae7ce906c52\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\383ad2c48ccebde577332ae7ce906c52\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\aabad928b9dfc3bb4f99a8e919d7ca2a\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\aabad928b9dfc3bb4f99a8e919d7ca2a\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\d777efb7f005f4061664eb152e4e4155\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\d777efb7f005f4061664eb152e4e4155\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\378cad5251b7bf9290fb2bb3c5781307\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\378cad5251b7bf9290fb2bb3c5781307\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\a7cb32bf2478ccd8ed752b2b8a998b8f\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\a7cb32bf2478ccd8ed752b2b8a998b8f\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\11902811a1e20f50ecac97c485be82b1\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\11902811a1e20f50ecac97c485be82b1\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\971a5b69b89846008f16f9726686958d\support-media-compat-26.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\971a5b69b89846008f16f9726686958d\support-media-compat-26.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\f14724208b5bfeeef0d6bdefe649bca7\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\f14724208b5bfeeef0d6bdefe649bca7\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\f993d148e999fdf956a4937ae88c6ee1\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\f993d148e999fdf956a4937ae88c6ee1\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\16e10458eb3d86dce547be2d4dce65a9\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\16e10458eb3d86dce547be2d4dce65a9\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\67b0ea41bb31f1300bd726681636eb0e\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\67b0ea41bb31f1300bd726681636eb0e\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\a4cce78b48541915b29a77ed3286103c\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\a4cce78b48541915b29a77ed3286103c\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\d2514de441a98c98e63d23342e697e1c\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\d2514de441a98c98e63d23342e697e1c\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\587d4b4ba2bee95fa70ebde7fdef163e\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\587d4b4ba2bee95fa70ebde7fdef163e\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\6649028815494b2aeabe1bc5c2405c56\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\6649028815494b2aeabe1bc5c2405c56\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\5e2b7336b65fd01a7d1759b63ce95e82\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\5e2b7336b65fd01a7d1759b63ce95e82\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\5e443312ff8e9912636de42e05adc2a8\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\5e443312ff8e9912636de42e05adc2a8\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\bde0a02c7eaeb68bbbbe9daba8b5a4d3\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\bde0a02c7eaeb68bbbbe9daba8b5a4d3\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\80a25cd447b6f67296c411c5c16059bb\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\80a25cd447b6f67296c411c5c16059bb\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\a9f3caa807bbac705342bf916bae7e9b\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\a9f3caa807bbac705342bf916bae7e9b\runtime-1.1.1\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\551bc97023610b3a2a13198864385efa\support-v4-26.1.0\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\hellocardboard-android\src\main\AndroidManifest.xml
+uses-permission#android.permission.NFC
+ADDED from [:sdk] C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\sdk\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:5-62
+	android:name
+		ADDED from [:sdk] C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\sdk\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:22-59
+activity#com.google.cardboard.QrCodeCaptureActivity
+ADDED from [:sdk] C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\sdk\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:9-31:66
+	android:label
+		ADDED from [:sdk] C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\sdk\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:13-67
+	android:exported
+		ADDED from [:sdk] C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\sdk\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:13-37
+	android:theme
+		ADDED from [:sdk] C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\sdk\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:13-63
+	android:name
+		ADDED from [:sdk] C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\sdk\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:13-70
+activity#com.google.cardboard.HeadsetDetectionActivity
+ADDED from [:sdk] C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\sdk\build\intermediates\library_manifest\debug\AndroidManifest.xml:37:9-50:20
+	android:label
+		ADDED from [:sdk] C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\sdk\build\intermediates\library_manifest\debug\AndroidManifest.xml:40:13-69
+	android:exported
+		ADDED from [:sdk] C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\sdk\build\intermediates\library_manifest\debug\AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from [:sdk] C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\sdk\build\intermediates\library_manifest\debug\AndroidManifest.xml:38:13-73
+intent-filter#action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.DEFAULT+data:scheme:cardboard
+ADDED from [:sdk] C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\sdk\build\intermediates\library_manifest\debug\AndroidManifest.xml:43:13-49:29
+action#android.nfc.action.NDEF_DISCOVERED
+ADDED from [:sdk] C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\sdk\build\intermediates\library_manifest\debug\AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from [:sdk] C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\sdk\build\intermediates\library_manifest\debug\AndroidManifest.xml:44:25-74
+category#android.intent.category.DEFAULT
+ADDED from [:sdk] C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\sdk\build\intermediates\library_manifest\debug\AndroidManifest.xml:46:17-76
+	android:name
+		ADDED from [:sdk] C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\sdk\build\intermediates\library_manifest\debug\AndroidManifest.xml:46:27-73
+data
+ADDED from [:sdk] C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\sdk\build\intermediates\library_manifest\debug\AndroidManifest.xml:48:17-52
+	android:scheme
+		ADDED from [:sdk] C:\Users\cdarnell\Downloads\cardboard-master\cardboard-master\sdk\build\intermediates\library_manifest\debug\AndroidManifest.xml:48:23-49
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\8a238751f281a7df6433d71cb1e51553\play-services-base-15.0.1\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\8a238751f281a7df6433d71cb1e51553\play-services-base-15.0.1\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\8a238751f281a7df6433d71cb1e51553\play-services-base-15.0.1\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\8a238751f281a7df6433d71cb1e51553\play-services-base-15.0.1\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\7e9712b97e48a8df88241daaac2516ad\play-services-basement-15.0.1\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\7e9712b97e48a8df88241daaac2516ad\play-services-basement-15.0.1\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\7e9712b97e48a8df88241daaac2516ad\play-services-basement-15.0.1\AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\551bc97023610b3a2a13198864385efa\support-v4-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\971a5b69b89846008f16f9726686958d\support-media-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\971a5b69b89846008f16f9726686958d\support-media-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\551bc97023610b3a2a13198864385efa\support-v4-26.1.0\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\cdarnell\.gradle\caches\transforms-2\files-2.1\551bc97023610b3a2a13198864385efa\support-v4-26.1.0\AndroidManifest.xml:27:13-51
